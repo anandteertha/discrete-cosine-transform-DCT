@@ -1,0 +1,2 @@
+# discrete-cosine-transform-DCT-
+Discrete Cosine Transform ( DCT ) is used in data compression technique's. It separate's out the low frequency data from the high frequency data. Low frequency data means the part of the images, where there isn't much high difference in the pixel values(RGB-0 to 255). High frequency means the part of the image where there is a huge difference between, the pixel values.
